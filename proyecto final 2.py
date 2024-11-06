@@ -1,3 +1,5 @@
+#se muestra un convertidor de unidades en python, se implementaron unidades de masa y longitud
+#se le asigna el valor inicial a cada una de las variables que se encuentran en las llaves 
 masa = {
     "tonelada": 1000,         
     "kilogramo": 1,           
